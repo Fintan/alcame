@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Alchemy" package="fboyle.alchemy" version="1.0.0" company="ModelloDesign" />
+	<app main="Main" path="Export" file="Alchemy" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="thx.core" />
+	
+	<!-- <haxeflag name="-dce full" /> -->
+	
+</project>
